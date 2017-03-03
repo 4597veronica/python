@@ -1,0 +1,3 @@
+edad=imput("Introduce la edad")
+if edad>=15 and edad<=17:
+print "Puedes pasar a la sesion de tarde"
